@@ -1,0 +1,90 @@
+*{margin: 0px;padding:0px; box-sizing: border-box;}
+.one{padding: 40px;
+    height: 250px; width: 1200px; box-sizing: border-box;}
+    
+    ul.ff{height: 20px;  width: 280px; list-style-type: none; text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    bottom: 80px;
+    left: 200px;
+    }
+    .j{text-decoration: none; color: black;}
+    .u{text-decoration: none; color: black;}
+    .n{color: black;}
+    .btn-outline-success{position: relative; bottom: 130px; left: 600px; }
+/* hero start */
+img.a{position: relative;height: 200px; width: 100px;  left: 495px;} 
+img.b{height: 300px;width: 300px; position: absolute;left: 510px;
+border-radius: 130px;} 
+div.para{width: 400px;
+font-size: 12px; position: relative; bottom: 200px;}
+.game{width: 400px;display: flex;
+justify-items: center; position: relative; bottom:00px;}
+/* hero end */
+/* hero 2 */
+div.img{position: relative; right: 1400px;  }
+div.para2{position: relative; left:1400px;}
+
+
+img.alt2{right: 300px;width: 300px; position: absolute;right: 700px;top:550px;
+    border-radius: 130px;}
+    img.alt{position: relative;height: 200px; width: 100px; bottom: 200px; }
+
+
+    /* hero 2 end */
+    .game{width: 400px;display: flex;
+        justify-items: center; position: relative; bottom:250px; top: 5px;}
+
+        .play{position: relative; top:5px;}
+        /* hero end */
+        /* fome part */
+        h1.kali{height: 20px; width: 800px; box-sizing: border-box; position: relative; left: 200px; bottom: 50px;}
+
+        
+
+
+        .egg{width: 200px; position: relative; bottom:10px; left: 450px; background: green; color: white;}
+
+        /* footer u from */
+        h1.ex{position: relative; left: 200px;}
+        h1.ma{display: flex; justify-content: center;}
+        p.ma{display: flex;  justify-content: center;}
+        .input-group {width: 300px; position: relative;
+     left: 200px;}
+      .btn-success{position: relative;bottom: 50px; border-radius: 30px;}
+
+      /* footer */
+      footer{height: 250px; width: 1100px;}
+footer{background:rgba(0, 0, 51, 0.95);}
+img.f{height: 243px;
+   width: 243px;
+   left: 150px;
+   top: 59px;
+   border-radius: 90.95530700683594px;
+   background: rgba(0, 0, 51, 0.95);
+}
+ul.li{list-style-type: none;
+background-color: rgba(0, 0, 51, 0.95);
+color: white; height: 20px;width: 100px; position: relative;left: 400px; bottom: 120px;}
+.ss{background-color: rgba(0, 0, 51, 0.95);;}
+.aa{background-color: rgba(0, 0, 51, 0.95);;}
+.jj{background-color: rgba(0, 0, 51, 0.95);;}
+
+ul.li2{list-style-type: none;
+background-color: rgba(0, 0, 51, 0.95);
+color: white;
+height: 20px;width: 100px; position: relative; left: 230px; bottom: 150px;}
+
+div.last{box-sizing: border-box;background:rgba(0, 0, 51, 0.95) ; height: 120px;
+width: 100px; }
+.rr{background: rgba(0, 0, 51, 0.95); color: aliceblue; position: relative; left: 600px;bottom: 200px;}
+.r{background: rgba(0, 0, 51, 0.95); position: relative;left: 600px;bottom: 200px;}
+.rrr{background: rgba(0, 0, 51, 0.95);position: relative;left: 630px;bottom: 200px;}
+.kgf{background: rgba(0, 0, 51, 0.95);position: relative;left: 660px;bottom: 200px;}
+
+
+/* css end */
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {  footer{display: flex; flex-direction: column;}}
+

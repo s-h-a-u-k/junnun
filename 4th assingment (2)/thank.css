@@ -1,0 +1,8 @@
+*{padding:0px; margin: 0px; box-sizing: border-box;}
+h2.t {padding: 15px; height: 60px;width:400px; position:relative;  left:350px;top: 30px;}
+p.t{padding: 30px; height: 250px; width: 600px; position: relative; top: 50px;left: 250px;}
+img.fi1{position: relative; bottom: 300px; left: 700px;}
+img.fi2{position: relative;bottom: 300px; left: 80px;}
+.btn{position: relative; left: 200px; bottom: 50px;}
+/* end css */
+
